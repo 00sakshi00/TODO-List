@@ -1,4 +1,5 @@
 # ToDo_App
+The repository involves Node.js as runtime environment, Express as the framework and MongoDB for the database.
 
 ## Table of contents
 
